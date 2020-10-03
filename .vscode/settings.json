@@ -1,0 +1,9 @@
+{
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+	  "editor.codeActionsOnSave": {
+		  "source.fixAll.eslint": true 
+	  },
+	  "eslint.validate": ["javascript", "typescript"]
+}

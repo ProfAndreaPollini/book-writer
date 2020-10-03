@@ -1,6 +1,7 @@
 packages:
   # all packages in subdirs of packages/ and components/
-  - "book-writer/**"
+  - "book-writer-server/**"
+  - "book-writer-models/**"
   - "server/**"
   - "soundboard/**"
   # exclude packages that are inside test/ directories
